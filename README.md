@@ -2,7 +2,7 @@
 Baidu-Tieba-Teizi-Downloader 百度贴吧帖子下载器
 
 ## Console:
-Enter Tiezi ID 输入帖子ID 
+Enter Tiezi ID 输入帖子ID: 
 
 Only see LZ 只看楼主 ? Yes:1 No:0 
 
