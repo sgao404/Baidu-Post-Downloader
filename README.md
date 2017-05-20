@@ -1,4 +1,4 @@
-# Baidu-Tieba-Tiezi-Downloader
+# Baidu Tieba Post Downloader
 Baidu-Tieba-Teizi-Downloader 
 
 ## Console:
